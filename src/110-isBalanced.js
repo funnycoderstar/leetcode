@@ -9,6 +9,8 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
+// 判断给的数是不是平衡二叉树，平衡的定义是指任意节点的左右子树高度相差不超过1。
+// 一个递归方法，返回树的高度，如果左右子树高度相差超过1则返回-1。
 function treeHeight(root) {
     if(root == null) {
         return 0;
