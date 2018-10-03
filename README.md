@@ -9,3 +9,8 @@
 - [链表](https://github.com/funnycoderstar/leetcode/issues/23)
 - [集合](https://github.com/funnycoderstar/leetcode/issues/24)
 - [字典和散列表](https://github.com/funnycoderstar/leetcode/issues/25)
+- [树](https://github.com/funnycoderstar/leetcode/issues/26)
+- [图](https://github.com/funnycoderstar/leetcode/issues/27)
+- [排序和搜索算法](https://github.com/funnycoderstar/leetcode/issues/28)
+- [二叉树](https://github.com/funnycoderstar/leetcode/issues/6)
+- [内存工作原理](https://github.com/funnycoderstar/leetcode/issues/16)
