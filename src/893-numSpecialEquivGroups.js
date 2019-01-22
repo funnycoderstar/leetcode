@@ -3,16 +3,16 @@
  * @return {number}
  */
 var numSpecialEquivGroups = function(A) {
-    let B = A.concat();
-    let sortedArr = [];
-    for(let i = 0;i < A.length; i++) {
-        sortedArr[i] =  A[i].split('').sort(function(a, b) {
-            return a.localeCompare(b);
-        }).join('');
+    let count = {};
+    for(let i = 0; i < A.length; i++) {
+        for(let j = 0; j < A[0].length; j++) {
+            if(j % 2 == 0) {
+                count[i][0] = (A[i][j]);
+            } else {
+                count[i][1] = (A[i][j]);
+            }
+        }
     }
-    // let temp = sortedArr.filter(item => !B.includes(item))
-    // let temp1 = sortedArr.filter(item => B.includes(item))
-    const set = new Set(sortedArr)
-    return set.size;
+    console.log(count);
 };
 console.log(numSpecialEquivGroups(["aa","bb","ab","ba"]));
