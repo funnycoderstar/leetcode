@@ -15,6 +15,16 @@ var merge = function(nums1, m, nums2, n) {
 };
 
 
+/**
+ * 
+ * @param {*} nums1 
+ * @param {*} m 
+ * @param {*} nums2 
+ * @param {*} n 
+ * 从最后一个开始填充
+ * 合并后的数组总个数为m+n, 因为是从0开始， 所以nums1和nums2的最后一个索引分别为 m-1, n-1, 合并后的nums1的最后一个元素应该为m+n-1
+ * 我们在数组nums1中设p从尾部(即从确定大数开是)开始索引， m和n中的数组中i和j也是从尾部大数开始索引，nums1[i]和nums2[j]比较一下谁大谁就去填补p指引的那个位置， 谁去填补了， i或j就往左移动
+ */
 var merge = function(nums1, m, nums2, n) {
     let i = m - 1;
     let j = n - 1;
