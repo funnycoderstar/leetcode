@@ -11,7 +11,9 @@
    * [23.二叉搜索树的后序遍历序列](mds/Sword_offer/23.md)
    * [24.二叉树中和为某一值的路径](mds/Sword_offer/24.md)
    * [25.复杂链表的复制](mds/Sword_offer/25.md)
+   * [26.二叉搜索树与双向链表](mds/Sword_offer/26.md)
    * [30.扑克牌顺子](mds/Sword_offer/30.md)
+   * [33.丑数](mds/Sword_offer/33.md)
 * 3.leetcode
 
 * 4.常见前端算法面试题
