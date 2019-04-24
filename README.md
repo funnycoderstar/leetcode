@@ -1,6 +1,9 @@
 ## leetcode
+> 算法题目主要来自于 [Leetcode](https://leetcode-cn.com/problemset/algorithms/) 和 [牛客网](https://www.nowcoder.com/ta/coding-interviews)
+
 - javascript实现leetcode算法题
 - 包含思路分析与讲解
+
 ## 算法基础知识
 > 从零开始学习算法, 需要对算法的一些基础知识有所了解
 
@@ -14,3 +17,5 @@
 - [排序和搜索算法](https://github.com/funnycoderstar/leetcode/issues/28)
 - [二叉树](https://github.com/funnycoderstar/leetcode/issues/6)
 - [内存工作原理](https://github.com/funnycoderstar/leetcode/issues/16)
+
+

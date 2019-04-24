@@ -4,12 +4,12 @@
 
 树是一种分层数据结构的抽象模型。现实生活中最常见的树的例子是家谱，或是公司的组织架构图，如下图所示：
 
-![img](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1556116856003.png?width=1120&height=674&imageView2/3/w/398/h/238)
+![img](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1556116856003.png?width=1120&height=674&imageView2/3/)
 
 ## 树的相关术语
 一个树结构包含一系列存在父子关系的节点。每个节点都有一个父节点（除了顶部的第一个节点）以及零个或多个子节点：
 
-![tree](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1556117092594.png?width=1156&height=662&imageView2/3/w/418/h/240)
+![tree](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1556117092594.png?width=1156&height=662&imageView2/3/)
 
 位于树顶部的节点叫做**根节点**。它没有父节点(11)。树中的每个元素都叫做**节点**，节点分为内部节点和外部节点。至少有一个子节点的节点称为**内部节点**(7, 5, 9, 15, 13 和20是内部节点)。没有子元素的节点称为外部节点或**叶节点**(3, 6, 8, 10, 12, 14, 18和25都是叶节点)。
 
@@ -26,3 +26,13 @@
 **二叉树**中的节点最多只能有两个子节点：一个是左侧子节点，另一个是右侧子节点。这些定义有助于我们写出更高效的向、从树种插入，查找和删除节点的算法。二叉树而计算机科学中的应用非常广泛。
 
 **二叉搜索树(BST)**是二叉树的一种，但是它只允许你在左侧节点存储（比父节点）值小的值，在右侧节点存储（比父节点）大（或者等于）的值。
+
+![二叉搜索树](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1556119868152.png?width=1142&height=552&imageView2/3/)
+
+## 平衡二叉树
+![AVL](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1556121206687.png?width=312&height=221&imageView2/3/)
+
+## 对称二叉树
+
+
+## 红黑树
