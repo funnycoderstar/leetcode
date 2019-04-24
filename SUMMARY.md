@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 
 * 1.数据结构与算法
-
+    * [树](mds/basic/binaryTree.md)
 * 2.剑指offer
 
    * [21.栈的压入、弹出序列](mds/Sword_offer/21.md)
