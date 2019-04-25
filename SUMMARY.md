@@ -14,6 +14,9 @@
    * [26.二叉搜索树与双向链表](mds/Sword_offer/26.md)
    * [30.扑克牌顺子](mds/Sword_offer/30.md)
    * [33.丑数](mds/Sword_offer/33.md)
+   * [33.丑数](mds/Sword_offer/33.md)
+   * [40.和为S的连续正数序列](mds/Sword_offer/40.md)
+   * [41.和为S的两个数字](mds/Sword_offer/41.md)
 * 3.leetcode
 
 * 4.常见前端算法面试题
