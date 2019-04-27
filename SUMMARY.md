@@ -17,6 +17,7 @@
    * [33.丑数](mds/Sword_offer/33.md)
    * [40.和为S的连续正数序列](mds/Sword_offer/40.md)
    * [41.和为S的两个数字](mds/Sword_offer/41.md)
+   * [54.链表中环的入口结点](mds/Sword_offer/54.md))
    * [55.删除链表中重复的结点](mds/Sword_offer/55.md)
 * 3.leetcode
 
