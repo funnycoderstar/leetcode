@@ -2,10 +2,9 @@
 
 * [Introduction](README.md)
 
-* 1.数据结构与算法
+* 一.数据结构与算法
     * [树](mds/basic/binaryTree.md)
-* 2.剑指offer
-
+* 二.剑指offer
    * [21.栈的压入、弹出序列](mds/Sword_offer/21.md)
    * [22.从上往下打印二叉树](mds/Sword_offer/22.md)
    * [23.二叉搜索树的后序遍历序列](mds/Sword_offer/23.md)
@@ -20,12 +19,22 @@
    * [42.左旋转字符串](mds/Sword_offer/42.md)
    * [43.翻转单词顺序列](mds/Sword_offer/43.md)
    * [44.孩子们的游戏(圆圈中最后剩下的数)](mds/Sword_offer/44.md)
+   * [47.不用加减乘除做加法](mds/Sword_offer/47.md)
+   * [48.把字符串转换成整数](mds/Sword_offer/48.md)
+   * [49.数组中重复的数字](mds/Sword_offer/49.md)
+   * [50.构建乘积数组](mds/Sword_offer/50.md)
+   * [51.正则表达式匹配](mds/Sword_offer/51.m))
+   * [52.表示数值的字符串](mds/Sword_offer/52.md)
+   * [53.字符流中第一个不重复的字符](mds/Sword_offer/53.md)
    * [54.链表中环的入口结点](mds/Sword_offer/54.md))
    * [55.删除链表中重复的结点](mds/Sword_offer/55.md)
+   * [56.二叉树的下一个结点](mds/Sword_offer/56.md)
    * [57.对称的二叉树](mds/Sword_offer/57.md)
+   * [58.按之字形顺序打印二叉树](mds/Sword_offer/58.md)
+   * [59.把二叉树打印成多行](mds/Sword_offer/59.md)
    * [60.滑动窗口的最大值](mds/Sword_offer/60.md)
    * [65.矩阵中的路径](mds/Sword_offer/65.md)
    * [66.机器人的运动范围](mds/Sword_offer/66.md)
-* 3.leetcode
+* 三.leetcode
 
-* 4.常见前端算法面试题
+* 四.常见前端算法面试题
