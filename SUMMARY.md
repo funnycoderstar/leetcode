@@ -9,6 +9,7 @@
    * [2.替换空格](mds/Sword_offer/2.md)
    * [3.从尾到头打印链表](mds/Sword_offer/3.md)
    * [4.重建二叉树](mds/Sword_offer/4.md)
+   * [5.用两个栈实现队列](mds/Sword_offer/5.md)
    * [21.栈的压入、弹出序列](mds/Sword_offer/21.md)
    * [22.从上往下打印二叉树](mds/Sword_offer/22.md)
    * [23.二叉搜索树的后序遍历序列](mds/Sword_offer/23.md)
