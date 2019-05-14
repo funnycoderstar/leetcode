@@ -46,5 +46,6 @@
    * [20. 有效的括号](mds/leetcode/20.md)
    * [32. 最长有效括号](mds/leetcode/32.md)
    * [42. 接雨水](mds/leetcode/42.md)
+   * [1021. 删除最外层的括号](mds/leetcode/1021.md)
 
 * 四.常见前端算法面试题
