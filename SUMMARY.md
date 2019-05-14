@@ -44,6 +44,7 @@
 * 三.leetcode
    * [11. 盛最多水的容器](mds/leetcode/11.md)
    * [20. 有效的括号](mds/leetcode/20.md)
+   * [32. 最长有效括号](mds/leetcode/32.md)
    * [42. 接雨水](mds/leetcode/42.md)
 
 * 四.常见前端算法面试题
