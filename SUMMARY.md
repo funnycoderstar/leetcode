@@ -16,6 +16,8 @@
    * [8.跳台阶](mds/Sword_offer/8.md)
    * [9.变态跳台阶](mds/Sword_offer/9.md)
    * [10.矩形覆盖](mds/Sword_offer/10.md)
+   * [11.二进制中1的个数](mds/Sword_offer/11.md)
+   * [12.数值的整数次方](mds/Sword_offer/12.md)
    * [21.栈的压入、弹出序列](mds/Sword_offer/21.md)
    * [22.从上往下打印二叉树](mds/Sword_offer/22.md)
    * [23.二叉搜索树的后序遍历序列](mds/Sword_offer/23.md)
