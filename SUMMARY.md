@@ -18,6 +18,7 @@
    * [10.矩形覆盖](mds/Sword_offer/10.md)
    * [11.二进制中1的个数](mds/Sword_offer/11.md)
    * [12.数值的整数次方](mds/Sword_offer/12.md)
+   * [13.调整数组顺序使奇数位于偶数前面](mds/Sword_offer/13.md)
    * [21.栈的压入、弹出序列](mds/Sword_offer/21.md)
    * [22.从上往下打印二叉树](mds/Sword_offer/22.md)
    * [23.二叉搜索树的后序遍历序列](mds/Sword_offer/23.md)
