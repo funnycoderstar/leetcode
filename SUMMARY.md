@@ -56,6 +56,8 @@
    * [1021. 删除最外层的括号](mds/leetcode/1021.md)
    * [11. 盛最多水的容器](mds/leetcode/11.md)
    * [42. 接雨水](mds/leetcode/42.md)
+   * [1094. 拼车](mds/leetcode/1094-carPooling.md)
+   * [1104. 分糖果 II](mds/leetcode/1104-distributeCandies.md)
    
 
 * 四.常见前端算法面试题
