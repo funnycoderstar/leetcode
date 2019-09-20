@@ -1,4 +1,8 @@
-> javascript实现一个二叉搜索树, 包含插入一个节点, 中序遍历, 前序遍历, 后序遍历
+# javascript实现一个二叉搜索树
+- 插入一个节点
+- 中序遍历
+- 前序遍历
+- 后序遍历
 
 ```js
 // 二叉搜索树, 左节点小于右节点
@@ -100,16 +104,16 @@ function printNode(value){
 ```js
 tree.inOrderTraverse(printNode);
 ```
-![中序遍历](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1553592182410.png?width=1256&height=706&imageView2/3/w/536/h/301)
+![中序遍历](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1553592182410.png)
 
 ## 前序遍历
 ```js
 tree.preOrderTraverse(printNode);
 ```
-![前序遍历](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1553592244731.png?width=1136&height=746&imageView2/3/w/536/h/352)
+![前序遍历](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1553592244731.png)
 
 ## 后序遍历
 ```js
 tree.postOrderTraverse(printNode);
 ```
-![后序遍历](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1553592253305.png?width=1144&height=644&imageView2/3/w/537/h/302)
+![后序遍历](https://cdn.suisuijiang.com/ImageMessage/5adad39555703565e79040fa_1553592253305.png)

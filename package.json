@@ -1,0 +1,26 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "> 算法题目主要来自于 [Leetcode](https://leetcode-cn.com/problemset/algorithms/) 和 [牛客网](https://www.nowcoder.com/ta/coding-interviews)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funnycoderstar/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funnycoderstar/leetcode/issues"
+  },
+  "homepage": "https://github.com/funnycoderstar/leetcode#readme",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
