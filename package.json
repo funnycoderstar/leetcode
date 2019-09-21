@@ -7,8 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "publish": "npm run build  && cp -r docs/.vuepress/dist/*  ../deploy/leetcode/"
   },
   "repository": {
     "type": "git",
