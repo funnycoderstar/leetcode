@@ -1,6 +1,11 @@
-function getRootCount(root) {
-    if (root === null) {
-        return 0;
+function A(a, b) {
+    while (a !== b) {
+        if (a > b) {
+            a = a - b;
+        } else {
+            b = b - a;
+        }
     }
-    return 1 + getRootCount(root.left) + getRootCount(root.right);
+    return a;
 }
+console.log(A(12, 42));
